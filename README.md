@@ -1,3 +1,8 @@
+[![Install](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/format.yml)
+[![Lint](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/lint.yml)
+[![Test](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Gavin_Li_Week9_Mini_Project/actions/workflows/test.yml)
+
 # IDS 706 Data Engineering Week 9 Mini Project
 
 Gavin Li `gl183`
@@ -25,3 +30,5 @@ Here is the plot
 
 
 ## Result of `make format`, `make lint`, and `make test`
+
+![rslts](./resources/rslts.png)
