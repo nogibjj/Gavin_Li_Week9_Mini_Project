@@ -13,7 +13,7 @@ The purpose of this week's mini project is to perform data manipulation in a clo
 
 ## Google Colab
 
-[Here is the link for my Jupyter Notebook file](https://colab.research.google.com/drive/1AX91nExsTbxolOcUMSG3dFysssKby7oF)
+[Here is the link for my Jupyter Notebook file]([https://colab.research.google.com/drive/1AX91nExsTbxolOcUMSG3dFysssKby7oF](https://colab.research.google.com/drive/1AX91nExsTbxolOcUMSG3dFysssKby7oF?usp=sharing))
 
 ## Data manipulation and visualization
 
